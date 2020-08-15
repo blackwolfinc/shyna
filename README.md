@@ -1,0 +1,2 @@
+# shyna
+Project aplikasi vue 
